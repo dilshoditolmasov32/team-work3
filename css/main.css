@@ -590,6 +590,14 @@ video {
   top: 0px;
 }
 
+.top-\[10px\] {
+  top: 10px;
+}
+
+.top-\[20px\] {
+  top: 20px;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -641,6 +649,10 @@ video {
 
 .mt-\[80px\] {
   margin-top: 80px;
+}
+
+.ml-\[50\%\] {
+  margin-left: 50%;
 }
 
 .block {
